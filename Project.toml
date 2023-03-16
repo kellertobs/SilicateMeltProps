@@ -2,3 +2,6 @@ name = "SilicateMeltProps"
 uuid = "0ac2b7d0-9a70-4413-b1cf-7ecf2c4a0625"
 authors = ["Tobias Keller <kellertobs@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
